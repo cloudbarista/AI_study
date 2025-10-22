@@ -1,0 +1,14 @@
+# CNN 예제 실행을 위한 필수 패키지
+
+# Keras/TensorFlow 버전용
+tensorflow>=2.10.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# PyTorch 버전용 (선택사항)
+# torch>=1.13.0
+# torchvision>=0.14.0
+
+# 추가 유틸리티
+# pillow>=9.0.0
+# scikit-learn>=1.0.0
